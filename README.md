@@ -21,7 +21,7 @@ Required development tools based on the selected technology stack
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/NAU-OSS/RideWise.git
 ```
 
 Navigate into the project directory:
