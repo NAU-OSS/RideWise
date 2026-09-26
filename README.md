@@ -74,7 +74,7 @@ The project is currently in the foundational phase of building the core function
 
 ## Author
 
-**Kalyana Pabbisetty** — Initial creator and developer of RideWise.
+**Kalyana Pabbisetty** - Initial creator and developer of RideWise.
 
 GitHub: https://github.com/kp2469-Kaly
 
